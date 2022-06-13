@@ -338,7 +338,7 @@ export default {
                             name: "e-services",
                         },
                     ],
-                    customfield_10200: data.email.toLowerCase(),
+                    customfield_10400: data.email.toLowerCase(),
                     customfield_10116: data.name,
                 },
             };
