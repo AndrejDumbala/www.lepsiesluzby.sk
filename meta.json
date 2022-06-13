@@ -208,12 +208,12 @@
                                 }
                             ]
                         },
-                        "customfield_10200": {
+                        "customfield_10400": {
                             "required": false,
                             "schema": {
                                 "type": "string",
-                                "custom": "ru.mail.jira.plugins.uniqueregexfield:unique-regex-cf",
-                                "customId": 10200
+                                "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+                                "customId": 10400
                             },
                             "name": "e-mail",
                             "hasDefaultValue": false,
